@@ -8,6 +8,6 @@ function App() {
       <Toggle />
     </div>
   );
-}
+} 
 
 export default App;
